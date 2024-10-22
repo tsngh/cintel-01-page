@@ -1,8 +1,6 @@
-# My Website Title 
+# Tesheena's GitHub Website 
 
 My first website using Markdown and GitHub Pages.
-
-## Links (Two hashes is a second level heading)
 
 Here's a clickable link: [My favorite online magazine](https://emergencemagazine.org/)
 
